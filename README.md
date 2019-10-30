@@ -8,13 +8,13 @@ This is a meme board made to teach people git
 
 `[name shown in the link](link here)`
 
-[UH OH Stinky](https://www.youtube.com/watch?v=ZJvH8d2y7Iw)
+[Get Rick Rolled](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
 `![name pour votre meme](put the image in images and reference it here)`
 
-![J'aime le meme](images/z00merm3m3.jpg)
+![What is github?](http://m.quickmeme.com/img/75/7509f68823389e4af3777ca6d3744c632cc32ab3547bc56e319126aa29ab149a.jpg)
 
 
 
